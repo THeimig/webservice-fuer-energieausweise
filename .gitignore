@@ -1,0 +1,19 @@
+# Minimal .gitignore for VB Projects
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio cache and settings
+.vs/
+*.user
+*.suo
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.log
+*.cache
+*.tmp
+*.bak

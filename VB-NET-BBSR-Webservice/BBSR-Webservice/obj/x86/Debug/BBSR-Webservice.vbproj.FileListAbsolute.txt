@@ -1,0 +1,11 @@
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\bin\x64\Release\DIBt-Webservice.dll.config
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\bin\x64\Release\DIBt-Webservice.dll
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\bin\x64\Release\DIBt-Webservice.pdb
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\bin\x64\Release\DIBt-Webservice.xml
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\obj\x86\Debug\BBSR-Webservice.vbproj.AssemblyReference.cache
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\obj\x86\Debug\BBSR_Webservice.Resources.resources
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\obj\x86\Debug\BBSR-Webservice.vbproj.GenerateResource.cache
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\obj\x86\Debug\BBSR-Webservice.vbproj.CoreCompileInputs.cache
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\obj\x86\Debug\DIBt-Webservice.dll
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\obj\x86\Debug\DIBt-Webservice.xml
+C:\daten\Aktuelle Entwicklungen\VB-NET-BBSR-Webservice\BBSR-Webservice\obj\x86\Debug\DIBt-Webservice.pdb

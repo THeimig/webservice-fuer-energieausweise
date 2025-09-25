@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DIBt-Webservice
+</name>
+</assembly>
+<members>
+<member name="T:BBSR_Webservice.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BBSR_Webservice.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BBSR_Webservice.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:BBSR_Webservice.Klasse_Webservice.#ctor(System.String,System.String,System.DateTime,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Boolean)">
+ <summary>
+ Dieses "New" wird angesteuert wenn der Webservice eine Regriernummer anfordert.
+ </summary>
+</member>
+<member name="M:BBSR_Webservice.Klasse_Webservice.#ctor(System.String,System.String,System.String,System.String,System.Boolean)">
+ <summary>
+ Dieses "New" wird angesteuert wenn die Kontrolldatei überprüft werden soll und beim Hochladen der Kontrolldatei.
+ </summary>
+</member>
+<member name="M:BBSR_Webservice.Klasse_Webservice.#ctor(System.String,System.String,System.Boolean)">
+ <summary>
+ Dieses "New" wird angesteuert wenn das Restkontingent abgefragt werden soll.
+ </summary>
+</member>
+<member name="M:BBSR_Webservice.Klasse_Webservice.Webservice_Datenregistratur">
+ <summary>
+ In dieser Anweisung wird der Webservice angesteuert und eine Regriernummer angefordert.
+ </summary>
+</member>
+<member name="M:BBSR_Webservice.Klasse_Webservice.Webservice_Restkontingent">
+ <summary>
+ In dieser Anweisung wird der Webservice angesteuert um das Restkontingent abzufragen.
+ </summary>
+</member>
+<member name="M:BBSR_Webservice.Klasse_Webservice.Webservice_KontrolldateiPruefen">
+ <summary>
+ In dieser Anweisung wird der Webservice angesteuert und die Kontrolldatei wird geprüft.
+ </summary>
+</member>
+<member name="M:BBSR_Webservice.Klasse_Webservice.Webservice_ZusatzdatenErfassung">
+ <summary>
+ In dieser Anweisung wird der Webservice angesteuert um die Zusatzdaten beim DIBt Server hochzuladen.
+ </summary>
+</member>
+<member name="M:BBSR_Webservice.Klasse_Webservice.Webservice_OffeneKontrolldateien">
+ <summary>
+ In dieser Anweisung wird der Webservice angesteuert um die Liste der offenen Kontrolldateien abzufragen.
+ </summary>
+</member>
+</members>
+</doc>
